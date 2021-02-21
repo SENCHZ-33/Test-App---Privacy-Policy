@@ -1,0 +1,6 @@
+For a business or a website that collects and processes user information in a certain region or country, it is very important to have complete knowledge of the data and privacy protection laws enforced in that region and the region your customers and end users are in. Non-compliance with these laws can result in hefty fines or even prosecution against the violator.
+
+In some cases, businesses have to follow laws specific to states or regulations specific to industries.
+
+For example, here's how General Motors complies with CalOPPA in the US by including a California-specific section in its Privacy Policy:
+
